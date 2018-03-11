@@ -1,0 +1,27 @@
+.jumbotron {
+    background-color: lightsteelblue;
+    font-family: 'Acme', sans-serif;
+}
+
+.table {
+    border: 1px lightsteelblue solid;
+}
+
+.panel-heading {
+    background-image: none;
+    font-family: 'Acme', sans-serif;
+}
+
+.panel-default {
+    background-image: none;
+    font-family: 'Acme', sans-serif;
+}
+
+hr {
+    margin: 20px 10px;
+}
+
+.bold-text {
+    font-weight: bold;
+    font-family: 'Acme', sans-serif;
+}
